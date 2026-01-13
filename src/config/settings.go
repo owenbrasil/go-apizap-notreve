@@ -5,11 +5,11 @@ import (
 )
 
 var (
-	AppVersion             = "v8.1.1"
+	AppVersion             = "v4.1.1"
 	AppPort                = "3000"
 	AppHost                = "0.0.0.0"
 	AppDebug               = false
-	AppOs                  = "AldinoKemal"
+	AppOs                  = "Chorme"
 	AppPlatform            = waCompanionReg.DeviceProps_PlatformType(1)
 	AppBasicAuthCredential []string
 	AppBasePath            = ""
